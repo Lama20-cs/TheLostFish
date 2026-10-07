@@ -2,12 +2,6 @@
 // Computer Graphics Project - The Lost Fish
 // Course: CS2206
 // Group : 1
-// Group Members:
-// Leena Abdullatif Althumali 
-// Lama Mohammed Alshareef 
-// Raghad Mutlaq Altubiti 
-// Ajwan Hassan Alameer 
-// Jana Hassan Qurbi
 // ========================================
 
 #define _CRT_SECURE_NO_WARNINGS
